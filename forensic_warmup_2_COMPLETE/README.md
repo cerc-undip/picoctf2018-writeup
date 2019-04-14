@@ -3,6 +3,7 @@
 > Hmm for some reason I can't open this PNG? Any ideas?
 
 file : [Download](https://2018shell.picoctf.com/static/0fde1a3e09824365348827194db9cdde/flag.png)
+
 ---
 
 Pada challenge kali ini kita diberikan 1 file gambar berekstensi `.png`. Jika kita buka file ini menggunakan image viewer ataupun `eog` maka kita akan mendapatkan error.
