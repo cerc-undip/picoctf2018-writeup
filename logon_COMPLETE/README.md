@@ -13,4 +13,6 @@ Pada halaman login terdapat 2 input username dan password yang digunakan untuk l
 
 Kemudian dengan menggunakan cookie editor (saya menggunakan ekstensi [Cookie Editor](https://chrome.google.com/webstore/detail/cookie-editor/hdhngoamekjhmnpenphenpaiindoinpo) Chrome) kita ganti value cookie `admin` dari **False** menjadi **True**, kemudian reload halaman.
 
+![picoCTF 2018 - Logon](./ss01.png)
+
 flag : `picoCTF{l0g1ns_ar3nt_r34l_92020990}`
