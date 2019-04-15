@@ -20,6 +20,8 @@ tcpflow -r data.pcap -o out
 cd out
 ```
 
+![](./ss01.png)
+
 Terdapat banyak paket yang berhasil diekstrak. Untuk lebih mudah mencari flag kita gunakan perintah `grep`.
 
 ```bash
